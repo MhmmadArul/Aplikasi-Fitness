@@ -1,5 +1,5 @@
 # Aplikasi Manajemen Fitness 🏋️‍♂️
-![image]({https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white})
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 &#x20; &#x20;
 
 > Sistem sederhana untuk mengelola member, paket, dan transaksi gym. Dibuat sebagai studi kasus workshop Universitas Pamulang.
