@@ -73,7 +73,6 @@
 
    - Username: `admin`
    - Password: `admin123`
-     > Segera ubah password melalui menu Profil demi keamanan.
 
 ## Penggunaan
 
