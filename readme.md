@@ -1,5 +1,9 @@
 # Aplikasi Manajemen Fitness 🏋️‍♂️
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 &#x20; &#x20;
 
 > Sistem sederhana untuk mengelola member, paket, dan transaksi gym. Dibuat sebagai studi kasus workshop Universitas Pamulang.
